@@ -1,4 +1,5 @@
 #BLINKIT STORE AND SALES VISUALISATION
+
 The Blinkit Sales Data Visualization Dashboard provides a unified view of store performance through clear and interactive business intelligence visuals. Designed to transform raw sales data into actionable insights, the dashboard highlights key metrics including total sales ($444.79K), average sales ($142), number of items (3,139), and average customer ratings (3.92).
 
 The dashboard enables business stakeholders to quickly evaluate performance across multiple dimensions:
